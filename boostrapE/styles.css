@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.table{
+    margin-top: 100px;
+}
+.accordion{
+    margin-top: 100px;
+}
+.card img{
+    width: 600px;
+    height: 500px;
+}
+.input-group{
+    margin-top: 50px;
+}
